@@ -8,3 +8,4 @@
   <p>- CSS</p>
   
 <br>
+<img src="https://github.com/SidneiGoulartJunior/Projeto-easy-shopping/blob/master/Imgs/Responsividade.easy.png?raw=true" alt="layout-easy"/>
