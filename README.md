@@ -6,6 +6,8 @@
   <p align="center">Tecnologias utilizadas:</p>
   <p>- HTML</p>
   <p>- CSS</p>
+    <br>
+  <p>Acesse em <a href="https://sidneigoulartjunior.github.io/Projeto-CSS---Easy-Shopping/">Easy Shopping</a></p>  
   
 <br>
 <img src="https://github.com/SidneiGoulartJunior/Projeto-easy-shopping/blob/master/Imgs/Responsividade.easy.png?raw=true" alt="layout-easy"/>
